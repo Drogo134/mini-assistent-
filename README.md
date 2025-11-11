@@ -1,5 +1,7 @@
-# mini-assistent
-#R AG Assistant (SambaNova)
+# mini-assistent - был создан для примера обучающимся
+#RAG Assistant (SambaNova)
+
+Откройте main.py и поменяйте промт, примеры под себя.
 
 ## Установка
 1. Установите Python 3.10+
