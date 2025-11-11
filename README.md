@@ -1,5 +1,5 @@
 # mini-assistent - был создан для примера обучающимся
-#RAG Assistant (SambaNova)
+(API-ключ SambaNova)
 
 Откройте main.py и поменяйте промт, примеры под себя.
 
